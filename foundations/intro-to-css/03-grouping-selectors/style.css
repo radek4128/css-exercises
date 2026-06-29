@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.blck_btn {
+    background-color: black;
+    color: white;
+}
+
+.yl_btn {
+    background-color: rgb(221, 255, 0);
+}
+
+.blck_btn,
+.yl_btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
